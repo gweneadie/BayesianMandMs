@@ -1,0 +1,23 @@
+# first ten are the first ones randomly taken from the bag of peanut m&m's. Masses in grams
+colour  mass
+blue  2.51
+blue  2.33
+blue  2.32
+orange  2.37
+blue  2.92
+yellow  2.40
+orange  2.87
+yellow  2.12
+orange  2.23
+green 2.39
+green 2.45
+green 1.97
+yellow  2.21
+orange  2.46
+orange  2.67
+blue  2.34
+orange  2.69
+brown  2.39
+orange  2.65
+yellow  2.03
+blue  2.56
