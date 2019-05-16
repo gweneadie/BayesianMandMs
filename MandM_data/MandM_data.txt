@@ -1,0 +1,23 @@
+# first ten are the first ones randomly taken from the bag of peanut m&m's
+colour
+blue
+blue
+blue
+orange
+blue
+yellow
+orange
+yellow
+orange
+green
+green
+green
+yellow
+orange
+orange
+blue
+orange
+brown
+orange
+yellow
+blue
