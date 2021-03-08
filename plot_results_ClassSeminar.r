@@ -1,5 +1,4 @@
 # script to make plots for publication
-
 # function to calculate the expected value of theta (the mean) of the posterior
 mean.beta = function( a, b ){ 
   a/(a+b)

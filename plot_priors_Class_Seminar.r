@@ -1,4 +1,3 @@
-
 # class set the hyperparameters alpha and beta for the prior distribution to be
 aclass=2
 bclass=9
